@@ -10,8 +10,6 @@
         "Sites",
         "FlowSites",
         "Einstein1AIPlatform",
-        "PublishExpBuilderBasedSna",
-        "EmbeddedServiceMessaging",
         "EnableSetPasswordInApi"
     ],
     "settings": {
